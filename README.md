@@ -1,2 +1,2 @@
 # english_helper
-Use for translate English
+Helper application for English vocab learning
